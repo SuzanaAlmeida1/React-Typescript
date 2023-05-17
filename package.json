@@ -1,0 +1,23 @@
+{
+
+  "name": "fundamentos-reactjs-ts",
+  "private": true,
+  "version": "0.0.0",
+  
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+
+
+  "devDependencies": {
+    "@types/react": "^18.2.2",
+    "@types/react-dom": "^18.2.3"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "phosphor-react": "^1.4.1",
+    "typescript-plugin-css-modules": "^5.0.1"
+  }
+}

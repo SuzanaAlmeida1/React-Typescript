@@ -1,0 +1,13 @@
+/*nome do arquivo .modules.css para que fique ligado ao Header
+ /* utilizar somente classes*/
+
+.header {
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+
+.header img {
+  height: 2rem;
+}
